@@ -1,0 +1,14 @@
+ItemName_FR = {
+	ItemName_Insurgent.DeployedParachute = "Parachute deployé",
+	ItemName_Insurgent.Sample1 = "Échantillon expérimental",
+	ItemName_Insurgent.ClassifiedDocument = "Document classifié",
+	ItemName_Insurgent.Vest_BulletArmyInsurgent = "Gilet pare-balles des Insurgés",
+	ItemName_Insurgent.Hat_ArmyInsurgent = "Casque des Insurgés",
+	ItemName_Insurgent.Hat_GasMaskInsurgent = "Masque à gaz des Insurgés",
+	ItemName_Insurgent.Hat_BeretArmyInsurgent = "Beret des Insurgés",
+	ItemName_Insurgent.Jacket_ArmyInsurgent = "Veste des Insurgés",
+	ItemName_Insurgent.Trousers_Insurgent = "Pantalon des Insurgés",
+	ItemName_Insurgent.Bag_ALICEpack_Insurgent = "Sac a dos ALICE des Insurgés",
+	ItemName_Insurgent.Gloves_LongInsurgent = "Gants longs des Insurgés",
+	ItemName_Insurgent.Gloves_FingerlessInsurgent = "Mitaines des Insurgés"
+}
